@@ -14,21 +14,7 @@ export const rootMetadata = {
   authors: [
     { name: 'Praveen Raj', url: 'https://praveenraj.dev' },
   ],
-  creator: 'Praveen Raj',
-  publisher: 'Praveen Raj',
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Dennis Snellenberg',
-    description:
-      'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Praveen Raj',
-    siteId: '1467726470533754880',
-    creator: '@AliBagheri2079',
-    creatorId: '1467726470533754880',
-    images: {
-      url: 'https://dennis-snellenberg-portfolio.vercel.app/screenshot.png',
-      alt: 'Portfolio Screenshot',
-    },
-  },
+  
   robots: {
     index: false,
     follow: true,
