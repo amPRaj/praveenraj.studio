@@ -41,10 +41,12 @@ export function UserDetails({ transformX }) {
           <div className='h-[1px] bg-muted-foreground' />
           <div className='absolute right-0 top-0 z-20 -translate-x-1/2 -translate-y-1/2'>
             <motion.div style={{ x: transformX }}>
-              <Link href='/contact' passHref>
-                <MagneticButton variant='primary' size='lg'>
+            <Link href="https://linktr.ee/praveenraj1" passHref legacyBehavior>
+              <a>
+             <MagneticButton variant="primary" size="lg">
                   Get in touch
-                </MagneticButton>
+             </MagneticButton>
+             </a>
               </Link>
             </motion.div>
           </div>

@@ -7,6 +7,7 @@ export const projectOptions = {
     {
       type: 'image',
       source: 'https://res.cloudinary.com/de1kvybqm/image/upload/v1729322632/AA8A78AD-EBDC-433B-8242-618A3D36E0BB_4_5005_c_dyztjg.jpg',
+      href: 'https://www.instagram.com/its.me_raj1/',
     },
     
     {

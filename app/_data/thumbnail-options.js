@@ -19,4 +19,5 @@ export const thumbnailOptions = [
     title: 'Short Films',
     image: 'https://res.cloudinary.com/de1kvybqm/image/upload/v1729277771/Screenshot_2024-10-19_at_00.25.59_lpuo5q.png',
   },
+  
 ];

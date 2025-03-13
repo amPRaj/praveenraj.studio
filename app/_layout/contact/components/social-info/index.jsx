@@ -29,7 +29,7 @@ export function SocialInfo() {
         <div className='flex gap-8'>
           <div>
             <ListTitle>Version</ListTitle>
-            <p className='mt-7'>2024 © Edition</p>
+            <p className='mt-7'>2025 © Edition</p>
           </div>
           <div>
             <ListTitle>-</ListTitle>
