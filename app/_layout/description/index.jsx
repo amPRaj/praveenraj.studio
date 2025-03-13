@@ -24,8 +24,8 @@ export function Description() {
         <div className='basis-7/12 lg:basis-3/12'>
           <ParallaxFade>
             <Balancer as='p' className='mt-2 text-base lg:text-lg'>
-              The combination of my passion for design, code & interaction
-              positions me in a unique place in the web design world.
+            The combination of my passion for storytelling, 
+              creative visuals & motion design positions me in a unique place in the video editing world.
             </Balancer>
           </ParallaxFade>
         </div>
